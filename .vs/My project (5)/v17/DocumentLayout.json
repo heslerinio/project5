@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\aleks\\My project (5)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\aleks\\my project (5)\\assets\\script\\character\\walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\aleks\\My project (5)\\assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\aleks\\my project (5)\\assets\\script\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\aleks\\my project (5)\\assets\\script\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\aleks\\my project (5)\\assets\\overworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\overworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\aleks\\my project (5)\\assets\\script\\character\\interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\aleks\\My project (5)\\assets\\script\\character\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\aleks\\My project (5)\\assets\\script\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\aleks\\My project (5)\\assets\\script\\character\\walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\walking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\aleks\\My project (5)\\assets\\script\\character\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\My project (5)\\Assets\\script\\Main Manu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\Main Manu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NewMonoBehaviourScript.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\NewMonoBehaviourScript.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\NewMonoBehaviourScript.cs",
-              "ToolTip": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\NewMonoBehaviourScript.cs",
-              "RelativeToolTip": "Assets\\script\\NewMonoBehaviourScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Interact.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\character\\Interact.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\character\\Interact.cs",
+              "ToolTip": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\character\\Interact.cs",
+              "RelativeToolTip": "Assets\\script\\character\\Interact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T21:28:31.135Z",
+              "WhenOpened": "2025-02-14T17:28:28.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OverWorld.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\My project (5)\\Assets\\OverWorld.cs",
+              "RelativeDocumentMoniker": "Assets\\OverWorld.cs",
+              "ToolTip": "C:\\Users\\aleks\\My project (5)\\Assets\\OverWorld.cs",
+              "RelativeToolTip": "Assets\\OverWorld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:28:04.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\enemy\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\enemy\\EnemyAttack.cs",
+              "ToolTip": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\enemy\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\script\\enemy\\EnemyAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:48:18.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "enemy.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\enemy\\enemy.cs",
               "RelativeDocumentMoniker": "Assets\\script\\enemy\\enemy.cs",
               "ToolTip": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\enemy\\enemy.cs",
               "RelativeToolTip": "Assets\\script\\enemy\\enemy.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwDcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAvwKUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T21:05:53.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\character\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\character\\Attack.cs",
+              "ToolTip": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\character\\Attack.cs",
+              "RelativeToolTip": "Assets\\script\\character\\Attack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:31:39.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\enemy\\EnemyHealth.cs",
+              "ToolTip": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\script\\enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:15:24.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Walking.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\character\\Walking.cs",
               "RelativeDocumentMoniker": "Assets\\script\\character\\Walking.cs",
               "ToolTip": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\character\\Walking.cs",
               "RelativeToolTip": "Assets\\script\\character\\Walking.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwFEAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T21:05:25.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "health.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\character\\health.cs",
               "RelativeDocumentMoniker": "Assets\\script\\character\\health.cs",
               "ToolTip": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\character\\health.cs",
               "RelativeToolTip": "Assets\\script\\character\\health.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T20:32:51.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Main Manu.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\Main Manu.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\Main Manu.cs",
-              "ToolTip": "C:\\Users\\aleks\\My project (5)\\Assets\\script\\Main Manu.cs",
-              "RelativeToolTip": "Assets\\script\\Main Manu.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T15:52:43.14Z"
+              "WhenOpened": "2025-01-27T20:32:51.332Z",
+              "EditorCaption": ""
             }
           ]
         }
